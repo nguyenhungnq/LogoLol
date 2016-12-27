@@ -27,7 +27,7 @@
                             </imageView>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ebN-AB-Nzl">
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="260" id="hxP-cF-oXr"/>
+                                    <constraint firstAttribute="width" constant="220" id="hxP-cF-oXr"/>
                                 </constraints>
                             </scrollView>
                         </subviews>
